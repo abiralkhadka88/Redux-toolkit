@@ -29,6 +29,10 @@ select {
   margin-bottom: 1em;
 }
 
+button:disabled{
+    background-color: gray;
+}
+
 main {
   max-width: 500px;
   margin: auto;
